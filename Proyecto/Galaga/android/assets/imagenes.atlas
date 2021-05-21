@@ -1,0 +1,89 @@
+
+imagenes.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fondo0
+  rotate: false
+  xy: 0, 1315
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+fondo0_lvl2
+  rotate: false
+  xy: 0, 675
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+fondo0_lvl3
+  rotate: false
+  xy: 360, 1315
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+fondo1
+  rotate: false
+  xy: 0, 35
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+fondo2
+  rotate: false
+  xy: 360, 675
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+jugador
+  rotate: false
+  xy: 360, 258
+  size: 337, 417
+  orig: 337, 417
+  offset: 0, 0
+  index: -1
+malo1
+  rotate: false
+  xy: 720, 1688
+  size: 220, 267
+  orig: 220, 267
+  offset: 0, 0
+  index: -1
+malo2
+  rotate: false
+  xy: 720, 1445
+  size: 220, 243
+  orig: 220, 243
+  offset: 0, 0
+  index: -1
+malo3
+  rotate: false
+  xy: 720, 1202
+  size: 220, 243
+  orig: 220, 243
+  offset: 0, 0
+  index: -1
+disparoJugador
+  rotate: false
+  xy: 0, 0
+  size: 11, 35
+  orig: 11, 35
+  offset: 0, 0
+  index: -1
+disparoMalo1
+  rotate: false
+  xy: 360, 223
+  size: 11, 35
+  orig: 11, 35
+  offset: 0, 0
+  index: -1
+disparoMalo2
+  rotate: false
+  xy: 697, 640
+  size: 11, 35
+  orig: 11, 35
+  offset: 0, 0
+  index: -1
